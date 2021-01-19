@@ -9,6 +9,6 @@ ________________________________________________________________________________
 
 This problem explores the topic of lists and accessing items, finding the minimum value, and the pythagoream theorem.
 __________________________________________________________________________________
-For additional help, either ask Paul, Joshua, Mr. Blatner, or any other staff member for assistance.
+For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance.
 
 Otherwise, you can search up "Accessing values in lists python", "Python minimum value", and "Pythagoream theorem".
