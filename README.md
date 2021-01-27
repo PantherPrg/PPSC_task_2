@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 This problem explores the topic of lists and accessing items, finding the minimum value, and the pythagoream theorem.
 __________________________________________________________________________________
-**optional challenge: complete in under 3 lines**
+**optional challenge: complete in under 4 lines**
 
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance.
 
