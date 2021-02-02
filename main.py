@@ -25,5 +25,5 @@ for i in range(1, numtasks+1):
 print("---------------------------")
 
 if perfect == True:
-  print("\nCongratulations! You successfully completed PPSC_task_1")
+  print("\nCongratulations! You successfully completed PPSC_task_2")
   
